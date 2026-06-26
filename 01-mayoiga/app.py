@@ -615,7 +615,7 @@ HEADER_HTML = f"""
         Deep in the mountains, the lost soul treads the arcane ways. <br>
         Weary eyes find lamplight, fire lit, table set with grace. <br>
         Dawn arrives - no walls, no warmth, no trace it ever stood in that frost. <br>
-        This is Mayoiga. The phantom born from the ache of being lost
+        This is Mayoiga. The phantom born from the ache of being lost.
   </p>
 </div>
 """

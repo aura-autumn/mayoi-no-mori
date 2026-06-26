@@ -1,10 +1,10 @@
 # 迷い家 — Mayoiga
 ### *The Phantom House* · Project 01 of [Mayoi no Mori](../README.md)
 
-> *Deep in the mountains, a traveler finds a house.*
-> *The fire is lit. The table is set. Everything is exactly what they needed.*
-> *In the morning, there is no house. There never was.*
-> *This is Mayoiga — the phantom that appears when you are lost enough to believe it.*
+> *Deep in the mountains, the lost soul treads the arcane ways.*
+> *Weary eyes find lamplight, fire lit, table set with grace.*
+> *Dawn arrives - no walls, no warmth, no trace it ever stood in that frost.*
+> *This is Mayoiga. The phantom born from the ache of being lost*
 
 ---
 
