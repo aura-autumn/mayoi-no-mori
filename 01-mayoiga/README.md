@@ -8,7 +8,7 @@
 
 ---
 
-![Mayoiga](../assets/mayoiga.png)
+![mayoiga](../assets/mayoigaimage.png)
 
 ---
 
