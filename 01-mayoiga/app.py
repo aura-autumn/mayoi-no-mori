@@ -612,9 +612,10 @@ HEADER_HTML = f"""
   <p id="kanji-title">迷い家</p>
   <p id="en-title">Mayoiga · The Phantom House · Project 01 of Mayoi no Mori</p>
   <p id="tagline">
-    Deep in the mountains, a traveler finds a house.<br>
-    The fire is lit. The table is set. Everything is exactly what they needed.<br>
-    In the morning — there is no house. There never was.
+        Deep in the mountains, the lost soul treads the arcane ways. <br>
+        Weary eyes find lamplight, fire lit, table set with grace. <br>
+        Dawn arrives - no walls, no warmth, no trace it ever stood in that frost. <br>
+        This is Mayoiga. The phantom born from the ache of being lost
   </p>
 </div>
 """

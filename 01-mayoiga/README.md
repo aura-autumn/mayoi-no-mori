@@ -37,10 +37,10 @@ Question asked 5 different ways
     5 independent answers from Llama 3.3
           │
           ▼
-    Sentence-level embeddings (local, no API cost)
+    Sentence-level embeddings (Voyage AI — voyage-4-lite)
           │
           ▼
-    Cosine similarity drift scoring
+    Cosine similarity drift scoring (local numpy)
           │
     ┌─────┴──────┐
     │            │
@@ -80,7 +80,8 @@ python -m venv venv
 source venv/bin/activate      # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 cp .env.example .env
-# Add your free Groq API key to .env — get one at console.groq.com
+# Add your free Groq API key — get one at console.groq.com
+# Add your free Voyage AI key — get one at dash.voyageai.com
 ```
 
 ## Usage
@@ -137,7 +138,7 @@ The most dramatic demonstration — run both and compare:
 ├── core/
 │   ├── __init__.py
 │   ├── detector.py      # Groq calls, question rephrasing, answer collection
-│   └── scorer.py        # Embedding, cosine similarity, drift scoring
+│   └── scorer.py        # Voyage AI embeddings, cosine similarity, drift scoring
 ├── viz/
 │   ├── __init__.py
 │   └── heatmap.py       # Sentence heatmap + confidence curve charts

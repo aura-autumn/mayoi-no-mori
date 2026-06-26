@@ -56,7 +56,7 @@ An AI answer that sounds confident, specific, and structured — but is entirely
 
 **Core technique:** Self-consistency scoring via sentence-transformer embeddings + cosine similarity drift analysis.
 
-→ [Enter the Phantom House](./01_mayoiga/)
+→ [Enter the Phantom House](./01-mayoiga/)
 
 ---
 
@@ -158,7 +158,7 @@ All projects in this repository are fully open source. No paid APIs required bey
 | Layer | Technology |
 |---|---|
 | LLM Inference | [Groq](https://groq.com) — Llama 3.3 70B (free tier) |
-| Embeddings | [sentence-transformers](https://sbert.net) — runs locally |
+| Embeddings | [Voyage AI](https://voyageai.com) — `voyage-4-lite` (200M free tokens) |
 | UI | [Gradio](https://gradio.app) |
 | Visualization | matplotlib, seaborn |
 | Language | Python 3.10+ |
